@@ -1,0 +1,42 @@
+{
+  "intro": {
+    "title": "Learn More About Islamic Finance GPT Assistant"
+  },
+  "sections": [
+    {
+      "title": "What is Islamic Finance?",
+      "content": "Islamic finance refers to financial activities that comply with Islamic law (Shariah) and principles."
+    },
+    {
+      "title": "How Does the GPT Assistant Work?",
+      "content": "Our GPT assistant uses artificial intelligence to provide expert guidance on Islamic finance products and services."
+    }
+  ],
+  "relevance": {
+    "title": "Why It’s Relevant (Especially in UAE/GCC)",
+    "points": [
+      "The GCC region is a global hub for Islamic finance.",
+      "There is strong demand for digital, Shariah-compliant fintech tools (especially post-2020 digital transformation).",
+      "Many startups lack internal expertise in Islamic financial jurisprudence.",
+      "UAE regulators increasingly require Shariah governance frameworks."
+    ]
+  },
+  "useCases": {
+    "title": "Potential Use Cases",
+    "points": [
+      "Fintechs building Shariah-compliant lending or investment platforms.",
+      "Banks digitizing Islamic products.",
+      "Compliance teams doing Shariah audits.",
+      "Educators and students learning Islamic finance."
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is the difference between Islamic finance and conventional finance?",
+        "answer": "Islamic finance is based on Islamic law and principles, whereas conventional finance is based on interest and speculation."
+      }
+    ]
+  }
+}
