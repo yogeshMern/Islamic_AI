@@ -18,7 +18,7 @@ const ChatInterface = () => {
     setResponse("");
 
     try {
-      const res = await Axios.post("https://islamic-ai-ncdk.onrender.com/api/v1/chat", {
+      const res = await Axios.post("https://islamic-ai-back.onrender.com/api/v1/chat", {
         message: query,
         botType: "default",
       });
