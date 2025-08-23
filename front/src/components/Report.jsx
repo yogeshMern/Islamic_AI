@@ -51,7 +51,7 @@ const Report = () => {
 
     try {
       setIsSubmitting(true);
-      await Axios.post("http://localhost:8080/api/v1/report", reportData);
+      await Axios.post("https://islamic-ai-ncdk.onrender.com/api/v1/report", reportData);
       setReportData({ email: "", message: "" });
       toast.success("Report sent successfully!");
       navigate("/");
